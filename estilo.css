@@ -12,7 +12,7 @@ header, .main, footer{
     margin: 20px auto;
 }
 header nav{
-    background:#0934e8;
+    background:#blue;
     overflow:hidden;
 }
 header nav ul{
